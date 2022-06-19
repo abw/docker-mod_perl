@@ -12,7 +12,7 @@ Including:
 
 The Docker image created is [triksox/mod_perl](https://hub.docker.com/repository/docker/triksox/mod_perl).
 
-## Instruction to Remind Me What to Do
+## Instructions to Remind Me What to Do
 
 ### Make Your Changes
 
@@ -35,13 +35,13 @@ take a while.
 The image created will be tagged `triksox/mod_perl:N.N.N`,
 where `N.N.N` is the version number defined in the [.env](.env) file.
 
-## Run a Container
+### Run a Container
 
 Run the [docker-run.sh](docker-run.sh) script to start a Docker container using the image created in the previous step.
 
     $ ./docker-run.sh
 
-## Push to Docker Hub
+### Push to Docker Hub
 
 Run the [docker-push.sh](docker-push.sh) script to push the image to Docker Hub.
 
