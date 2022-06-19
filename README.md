@@ -10,7 +10,7 @@ Including:
 * mod_perl
 * numerous CPAN Perl modules
 
-The Docker image created is [triksox/mod_perl](https://hub.docker.com/repository/docker/triksox/mod_perl].
+The Docker image created is [triksox/mod_perl](https://hub.docker.com/repository/docker/triksox/mod_perl).
 
 ## Instruction to Remind Me What to Do
 
